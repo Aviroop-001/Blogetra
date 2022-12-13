@@ -38,14 +38,29 @@ Backend : [Server](https://github.com/Aviroop-001/Aviroop-Blog-API).
 ![Registation demo](https://github.com/Aviroop-001/Blogetra/blob/main/Blogetra_register.gif)
 
 #### HOMEPAGE
+![Homepage demo](https://github.com/Aviroop-001/Blogetra/blob/main/Blogetra_homepage.gif)
+
+#### ABOUT PAGE
+![About page demo](https://github.com/Aviroop-001/Blogetra/blob/main/Blogetra_about.gif)
 
 #### FILTER POSTS FUNCTIONALITY
+![Post Filter demo](https://github.com/Aviroop-001/Blogetra/blob/main/Blogetra_filter_posts.gif)
 
 #### SINGLE POST
+![A post demo](https://github.com/Aviroop-001/Blogetra/blob/main/Blogetra_single_post.gif)
+
+#### POSTS BY AUTHOR
+![More Posts by author demo](https://github.com/Aviroop-001/Blogetra/blob/main/Blogetra_author_posts.gif)
 
 #### COMPOSE NEW POST
+![New Post Compose demo](https://github.com/Aviroop-001/Blogetra/blob/main/Blogetra_compose.gif)
 
 #### UPDATE USER DETAILS
+![User credentials update demo](https://github.com/Aviroop-001/Blogetra/blob/main/Blogetra_user_update.gif)
+
+#### DELETE USER
+![User delete demo](https://github.com/Aviroop-001/Blogetra/blob/main/Blogetra_user_delete.gif)
 
 #### LOGOUT
+![Logout demo](https://github.com/Aviroop-001/Blogetra/blob/main/Blogetra_logout.gif)
 
