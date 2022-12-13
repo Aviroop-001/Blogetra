@@ -1,53 +1,49 @@
 # <div align="center"> _**BLOGETRA**_ </div>
+### <div align="left">_[Live App](https://aviroop-blog-client-aviroop-001.vercel.app/)_</div>
 
 ## INTRODUCTION 
-• A Multi-user Full-Stack Blog App
+• A Multi-user Full-Stack Blog App built on React JS and Node.js
 
-• Created a REST API in Node.js and Express.js
+• Built REST API on Node.js and Express.js server, with CRUD operations on Cloud-based mongoDB Atlas via Mongoose, user Authentication via password protection and encryption with Bcrypt, media upload route to Cloudinary.
 
-• Implemented CRUD operations on Cloud-based mongoDB Atlas via Mongoose 
-
-• Implemented user Authentication via password protection and encryption with Bcrypt
-
-• created media upload route to Cloudinary
-
-• A robust, modern and easy-to-use frontend with React JS
-
-• Employed Global State Management System with Context API
-
-• Implemented styling with Material-UI, Chakra-UI and SCSS
-
-• Linked frontend to backend via Axios
+• Developed robust, modern and easy-to-use frontend with React JS styled with Material-UI, Chakra-UI and SCSS, along with Global State Management System with Context API, linked to backend via Axios.
 
 
 ## TECHNOLOGIES USED 
 React JS, Node.js, Express, mongoDB Atlas, Mongoose, React-Router, Cloudinary, Bcrypt, Axios, Context API, Material-UI, Chakra-UI, SASS
 
 ## CODEBASE
-Frontend : [Client](www.example1.com).
+Frontend : [Client](https://github.com/Aviroop-001/Aviroop-Blog-Client).
 
-Backend : [Server](www.example1.com).
+Backend : [Server](https://github.com/Aviroop-001/Aviroop-Blog-API).
 
 
 
 ## FEATURES 
-• A Multi-user Full-Stack Blog App
+• Secured user Authentication
 
-• Created a REST API in Node.js and Express.js
+• Easy to use GUI
 
-• Implemented CRUD operations on Cloud-based mongoDB Atlas via Mongoose 
+• Cloud-based storage
 
-• Implemented user Authentication via password protection and encryption with Bcrypt
+• Filter posts by categories
 
-• created media upload route to Cloudinary
+## APP DEMO
+#### <div align="left">_[Live App](https://aviroop-blog-client-aviroop-001.vercel.app/)_</div>
 
-• A robust, modern and easy-to-use frontend with React JS
+#### LOGIN
 
-• Employed Global State Management System with Context API
+#### REGISTER
 
-• Implemented styling with Material-UI, Chakra-UI and SCSS
+#### HOMEPAGE
 
-• Linked frontend to backend via Axios
+#### FILTER POSTS FUNCTIONALITY
 
-## APP DEMO 
+#### SINGLE POST
+
+#### COMPOSE NEW POST
+
+#### UPDATE USER DETAILS
+
+#### LOGOUT
 
