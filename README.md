@@ -32,8 +32,10 @@ Backend : [Server](https://github.com/Aviroop-001/Aviroop-Blog-API).
 #### <div align="left">_[Live App](https://aviroop-blog-client-aviroop-001.vercel.app/)_</div>
 
 #### LOGIN
+![Login demo](https://github.com/Aviroop-001/Blogetra/blob/main/Blogetra_login.gif)
 
 #### REGISTER
+![Registation demo](https://github.com/Aviroop-001/Blogetra/blob/main/Blogetra_register.gif)
 
 #### HOMEPAGE
 
