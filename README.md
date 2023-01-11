@@ -1,5 +1,9 @@
 # <div align="center"> _**BLOGETRA**_ </div>
 ### <div align="left">_[Live App](https://aviroop-blog-client-aviroop-001.vercel.app/)_</div>
+## CODEBASE
+Frontend : [Client](https://github.com/Aviroop-001/Aviroop-Blog-Client).
+
+Backend : [Server](https://github.com/Aviroop-001/Aviroop-Blog-API).
 
 ## INTRODUCTION 
 • A Multi-user Full-Stack Blog App built on React JS and Node.js
@@ -11,11 +15,6 @@
 
 ## TECHNOLOGIES USED 
 React JS, Node.js, Express, mongoDB Atlas, Mongoose, React-Router, Cloudinary, Bcrypt, Axios, Context API, Material-UI, Chakra-UI, SASS
-
-## CODEBASE
-Frontend : [Client](https://github.com/Aviroop-001/Aviroop-Blog-Client).
-
-Backend : [Server](https://github.com/Aviroop-001/Aviroop-Blog-API).
 
 
 
